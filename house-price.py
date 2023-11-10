@@ -1,6 +1,6 @@
 import numpy as np
 import pickle
-import streamlit #create account in Streamlit
+import streamlit as st #create account in Streamlit
 #map the data
 #location,status,property type and facing
 location_mapping = {
